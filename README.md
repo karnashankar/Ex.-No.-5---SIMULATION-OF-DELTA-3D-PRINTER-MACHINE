@@ -75,8 +75,8 @@ A display screen that allows the user to interact with the printer, typically us
 
 ## Output:
 
-### Name: Sirisha Reddy
-### Register Number: 212222230103
+### Name:karna S
+### Register Number: 212222110017
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
